@@ -1,0 +1,5 @@
+---
+title: >-
+  <span class="lang-en">Our paper on correcting factuality hallucination in LLMs was accepted by IJCNN 2024 (CCF-C).</span><span class="lang-zh">大语言模型事实性幻觉纠正方向论文被 IJCNN 2024（CCF-C）接收。</span>
+date: 2024-03-15 10:00:00 +0800
+---
