@@ -1,0 +1,9 @@
+pages:
+  - name: Home
+    label_en: Home
+    label_zh: 首页
+    url: /
+  - name: Publications
+    label_en: Publications
+    label_zh: 论文
+    url: /publications.html

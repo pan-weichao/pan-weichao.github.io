@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shandong Jianzhu University">
+  <circle cx="32" cy="32" r="30" fill="#28549a"/>
+  <path d="M17 43V25l15-10 15 10v18h-7V29l-8-5-8 5v14z" fill="#fff"/>
+  <path d="M28 43V31h8v12" fill="#fff"/>
+</svg>
