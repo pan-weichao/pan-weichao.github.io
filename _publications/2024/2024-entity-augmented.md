@@ -2,7 +2,7 @@
 title: "Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented"
 date: 2024-01-01 00:01:00 +0800
 selected: false
-cover: /assets/images/covers/papers/2024-entity-augmented.jpg
+cover: /assets/images/covers/papers/KGCN.png
 pub: "International Joint Conference on Neural Networks (IJCNN)"
 pub_date: "2024"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">CCF-C</span>'
