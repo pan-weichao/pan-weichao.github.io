@@ -11,7 +11,7 @@ body_attr: >-
 <div class="row">
     <div class="col-12 col-lg-10">
         <h1 class="pt-4 mb-0"><span class="lang-en">Publications</span><span class="lang-zh">论文发表</span></h1>
-        <p class="text-muted mt-2"><span class="lang-en">* denotes equal contribution; # denotes corresponding author.</span><span class="lang-zh">* 表示共同贡献；# 表示通讯作者。</span></p>
+        <p class="text-muted mt-2"><span class="lang-en"># denotes equal contribution; * denotes corresponding author.</span><span class="lang-zh"># 表示共同贡献；* 表示通讯作者。</span></p>
         {% for year in pubs_by_year %}
         {% assign num_papers = year.items | size %}
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
