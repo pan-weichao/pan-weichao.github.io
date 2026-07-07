@@ -1,6 +1,6 @@
 ---
 title: "TET Loss: A Temperature-Entropy Calibrated Transfer Loss for Reliable Medical Image Classification"
-date: 2026-01-18 00:01:00 +0800
+date: 2026-01-05 00:01:00 +0800
 selected: true
 cover: /assets/images/covers/papers/TET.png
 pub: "[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)"
