@@ -9,6 +9,6 @@ pub_last: '<span class="badge badge-pill badge-publication badge-success">JCR Q1
 authors:
   - Weichao Pan*
 links:
-  Paper: https://www.mdpi.com/2076-3417/15/3/1470
+  Paper: https://link.springer.com/article/10.1007/s10278-025-01816-9
   Code: https://github.com/JEFfersusu/TET_loss
 ---
