@@ -18,8 +18,9 @@ short_bio_text_justify: false
 short_bio: >-
   <div class="lang-en">
     <p>
-      I recently received my B.Eng. in Artificial Intelligence from the School of Computer Science and Artificial Intelligence,
-      Shandong Jianzhu University. During my undergraduate studies, I was advised by Prof. Xingbo Liu.
+      I received my B.Eng. in Artificial Intelligence from the School of Computer Science and Artificial Intelligence,
+      Shandong Jianzhu University, where I was advised by Prof. Xingbo Liu.
+      I will join Hunan University as an academic master's student, advised by Prof. Leyuan Fang.
     </p>
     <p>
       My research focuses on computer vision and machine learning, with particular interests in efficient neural networks,
@@ -33,6 +34,7 @@ short_bio: >-
   <div class="lang-zh">
     <p>
       我本科毕业于山东建筑大学计算机与人工智能学院人工智能专业，本科期间由刘兴波教授指导。
+      之后将推免至湖南大学攻读学术型硕士研究生，导师为方乐缘教授。
     </p>
     <p>
       我的研究聚焦计算机视觉与机器学习，主要关注高效神经网络、医学图像分析、目标检测、故障诊断、
