@@ -8,7 +8,7 @@ pub_date: "2025"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">JCR Q2 · CAAI-C</span>'
 authors:
   - Chengze Lv
-  - Weichao Pan#
+  - Weichao Pan*
 links:
   Paper: https://link.springer.com/article/10.1007/s11554-025-01778-9
   Code: https://github.com/JEFfersusu/LUOD-YOLO
