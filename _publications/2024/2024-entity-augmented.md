@@ -14,7 +14,7 @@ authors:
   - Shuqin Yang
   - Zhiqin Wang
   - Jian Wang
-  - Xiaofei Niu#
+  - Xiaofei Niu*
 links:
   Paper: https://ieeexplore.ieee.org/document/10650208
 ---
