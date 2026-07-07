@@ -2,7 +2,7 @@
 title: "MAGE-UNet: Progressive Skip-Feature Refinement for Medical Image Segmentation"
 date: 2026-04-14 00:01:00 +0800
 selected: false
-cover: /assets/images/covers/papers/2026-mage-unet.jpg
+cover: /assets/images/covers/papers/MAGE-UNet.png
 pub: "[Signal, Image and Video Processing](https://link.springer.com/journal/11760)"
 pub_date: "2026"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">JCR Q3 · CAAI-C</span>'
