@@ -3,7 +3,7 @@ title: "SM-CBNet: A Speech-Based Parkinson's Disease Diagnosis Model with SMOTE-
 date: 2025-07-25 00:01:00 +0800
 selected: false
 cover: /assets/images/covers/papers/SM-CBNet.png
-pub: "[International Conference on Intelligent Computing (ICIC)](http://www.ic-icc.cn/2026/index.php)"
+pub: "[International Conference on Intelligent Computing (ICIC)](http://www.ic-icc.cn/2025/index.php)"
 pub_date: "2025"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">CCF-C</span>'
 authors:
