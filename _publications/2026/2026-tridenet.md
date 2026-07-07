@@ -7,7 +7,7 @@ pub: "[Optics and Laser Technology](https://www.sciencedirect.com/journal/optics
 pub_date: "2026"
 pub_last: '<span class="badge badge-pill badge-publication badge-success">JCR Q1 · CAS TOP</span>'
 authors:
-  - **Weichao Pan†***
+  - **Weichao Pan*†**
   - Gongrui Wang†
   - Chengze Lv†
   - Zhengxiang Ma
