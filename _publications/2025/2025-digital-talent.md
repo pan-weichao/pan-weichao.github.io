@@ -11,6 +11,6 @@ authors:
   - 郇文庆
   - 刘兴波*
   - 王旭
----
 links:
-  Paper: https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973/
+  Paper: https://www.mdpi.com/2076-3417/15/3/1470
+---
